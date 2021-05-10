@@ -1,0 +1,3 @@
+include ':Toastify'
+include ':app'
+rootProject.name = "ToastExample"
